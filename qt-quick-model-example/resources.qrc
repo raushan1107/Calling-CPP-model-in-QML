@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/denmark.jpg</file>
+        <file>images/finland.jpg</file>
+        <file>images/iceland.jpg</file>
+        <file>images/norway.jpg</file>
+        <file>images/sweden.jpg</file>
+    </qresource>
+</RCC>
